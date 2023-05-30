@@ -1,8 +1,36 @@
+*{
+    margin: 0
+    padding: 0
+    
+}
+
 body{
     background-color: rgb(215, 215, 215);
 }
 
 #marcozero{
-    color:yellowgreen
+    text-shadow: 1px 1px saddlebrown;
+    font-size: 50px;
+    font-style: oblique;
+    margin: 10px 50px;
+    text-align: center;
+    flex-wrap: nowrap;
+    color:peru;
     
+}
+
+.linkinfo  a{
+    color:green;
+    text-decoration: none;
+
+}
+
+.figura1{
+    border: 3px solid black;
+
+}
+
+.figura2{
+    border: 3px solid black;
+
 }
